@@ -1,0 +1,4 @@
+$DATA1 SOURCE='HSPICE' VERSION='P-2019.06-SP1-1 win64' PARAM_COUNT=0
+.TITLE '* spice netlist written by s-edit win32 6.00'
+ power_avg        temper           alter#          
+  2.633e-03         25.0000        1               

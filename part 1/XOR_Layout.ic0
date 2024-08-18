@@ -1,0 +1,22 @@
+* "simulator" "HSPICE" 
+* "version" "P-2019.06-SP1-1 win64"
+* "format" "HSP"
+* "rundate" "19:10:53 03/28/2024 "
+* "netlist" "XOR_Layout.sp "
+* "runtitle" "* circuit extracted by tanner research's l-edit version 8.30 / extract version 8.30 ;"
+* time =    0.            
+* temperature =   25.0000        
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc=   1.0000p       
+.nodeset
++ 4 =   5.0000        
++ 8 =  16.4641n       
++ 9 =   4.0126        
++ a =   0.            
++ b =   5.0000        
++ out =   5.0000        
++ vdd =   5.0000        
++ ~a =   5.0000        
++ ~b =   0.            
+***   END: Saved Operating Point ***                     
